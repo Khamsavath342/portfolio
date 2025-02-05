@@ -1,0 +1,42 @@
+      body{
+            background-color: rgb(5, 5, 5);
+      }
+      h1 {
+             color: rgb(225, 0, 255);
+              width: 45%
+            }
+      h2 {  color:red;
+            width: 100%;
+         }
+      h3 {  color:palevioletred;
+            width: 7%
+         }
+      a  {
+            color: blue;
+            width: 75px;   
+         }
+      ol {  color: blue;
+            width: 12%
+         }
+      ul {  color: rgb(0, 255, 98);
+             width: 12%
+         }
+      li {  color: rgb(0, 255, 98);
+            width: 16%
+         }
+      img { border-style: solid;
+            border-width: 15px;
+            border-color: rgb(43, 6, 250); 
+          }
+      p {   color: blue;
+            width: 12%
+        }
+      strong {color: blue;
+            width: 2%
+      }
+      footer{color:red; 
+            width: 18%
+      }
+      small{color:red;
+           width: 18%
+      }
